@@ -15,4 +15,4 @@
   - Software updates for more functionality
   
  👀 See More:
- - [Non-profit Web Application](https://www.johnpauljones.me/star-sponsorship-web-app "Non-profit Web Application")
+ - [Appliance Repair Bootstrap Powered Website](https://www.appliance-repair-experts.com "Bootstrap Powered Website")
