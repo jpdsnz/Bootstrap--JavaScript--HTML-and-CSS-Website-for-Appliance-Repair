@@ -13,3 +13,6 @@
  
 📝 TODO: 
   - Software updates for more functionality
+  
+ 👀 See More:
+ - [Non-profit Web Application](https://www.johnpauljones.me/star-sponsorship-web-app "Non-profit Web Application")
