@@ -1,6 +1,6 @@
 # 🛠 Appliance Repair Information and Client Communication Responsive Website
 
-!Site](https://raw.githubusercontent.com/jpdsnz/jpdsnz/main/appliance.jpg)
+![Site](https://raw.githubusercontent.com/jpdsnz/jpdsnz/main/appliance.jpg)
 
 🔧 Tools Used:
 - Bootstrap 
