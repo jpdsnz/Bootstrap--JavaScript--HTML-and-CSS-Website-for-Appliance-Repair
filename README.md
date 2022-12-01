@@ -7,9 +7,8 @@
       <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/css-white.png">
       <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/js-white.png">
       <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/bootstrap.png">
-      <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/java-white.png">
       <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/angular.png">
-       <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/mongo.png">
+      <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/mongo.png">
 </p>
 
 ## 🔧 Tools Used:
@@ -19,7 +18,6 @@
      - CSS
      - Angular
      - MongoDB
-     - Java
 
 ## 🥅 Goal: 
  - To allow client communication with contractor and display relevant information related to services with responsive functionality for mobile viewing 📲.
