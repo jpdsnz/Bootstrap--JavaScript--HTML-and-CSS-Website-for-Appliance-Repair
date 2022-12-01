@@ -19,6 +19,7 @@
      - CSS
      - Angular
      - MongoDB
+     - Java
 
 ## 🥅 Goal: 
  - To allow client communication with contractor and display relevant information related to services with responsive functionality for mobile viewing 📲.
