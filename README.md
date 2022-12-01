@@ -2,17 +2,17 @@
 
 ![Site](https://raw.githubusercontent.com/jpdsnz/jpdsnz/main/appliance.jpg)
 
-🔧 Tools Used:
+## 🔧 Tools Used:
 - Bootstrap 
 - JavaScript
 - HTML
 - CSS 
 
-🥅 Goal: 
+## 🥅 Goal: 
  - To allow client communication with contractor and display relevant information related to services with responsive functionality for mobile viewing 📲.
  
-📝 TODO: 
+## 📝 TODO: 
   - Software updates for more functionality
   
- 👀 See More:
+ ## 👀 See More:
  - [Appliance Repair Bootstrap Powered Website](https://www.appliance-repair-experts.com "Bootstrap Powered Website")
